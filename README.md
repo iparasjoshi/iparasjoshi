@@ -40,12 +40,12 @@ Software Developer
 ### GitHub Statistics
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=parasjoshi&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parasjoshi&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iparasjoshi&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iparasjoshi&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=parasjoshi&theme=github-dark-blue&hide_border=true" alt="Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=iparasjoshi&theme=github-dark-blue&hide_border=true" alt="Contribution Streak" />
 </p>
 
 ---
@@ -53,7 +53,7 @@ Software Developer
 ### Contribution Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parasjoshi/parasjoshi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parasjoshi/parasjoshi/output/github-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/parasjoshi/parasjoshi/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iparasjoshi/iparasjoshi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iparasjoshi/iparasjoshi/output/github-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/iparasjoshi/iparasjoshi/output/github-snake.svg" />
 </picture>
